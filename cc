@@ -1,1 +1,1 @@
-/usr/local/etc/Caddyfile
+/root/.config
