@@ -1,1 +1,1 @@
-/root/.config
+/etc/ec2_version
