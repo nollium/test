@@ -1,1 +1,0 @@
-/etc/ec2_version
