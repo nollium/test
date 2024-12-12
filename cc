@@ -1,1 +1,1 @@
-/etc/caddy
+/usr/local/etc/Caddyfile
